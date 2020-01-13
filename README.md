@@ -1,1 +1,1 @@
-# RPS
+Basic Rock Paper Scissors game
